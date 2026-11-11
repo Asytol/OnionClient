@@ -5,3 +5,6 @@ This is one of the simplest and most annoying irc clients out there. It was made
 
 ### How do I use this?
 It is simple. Compile it. Execute it and then follow the basic instructions it gives you. To send a message you do a `PRIVMSG #[channel] : <Message here>`
+
+### Why should you use this?
+It is really minimal. Like extremely minimal, like smaller than Suckless.org's SIC since that uses more libraries.
